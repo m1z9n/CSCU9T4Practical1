@@ -7,7 +7,7 @@ import java.util.*;
 import javax.swing.*;
 import java.lang.Number;
 
-public class TrainingRecordGUI extends JFrame implements ActionListener {
+ public class TrainingRecordGUI extends JFrame implements ActionListener {
 
 	private JTextField name = new JTextField(30);
 	private JTextField day = new JTextField(2);
